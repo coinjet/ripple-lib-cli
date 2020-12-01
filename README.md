@@ -1,4 +1,4 @@
-ripple-lib-cli
+divvy-lib-cli
 ==============
 
-cli on top of ripple-lib
+cli on top of divvy-lib
